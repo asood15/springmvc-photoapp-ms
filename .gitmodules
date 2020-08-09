@@ -1,3 +1,6 @@
 [submodule "photoapp-discovery-service"]
 	path = photoapp-discovery-service
 	url = https://github.com/asood15/photoapp-discovery-service
+[submodule "photoapp-zuul-api-gateway"]
+	path = photoapp-zuul-api-gateway
+	url = https://github.com/asood15/photoapp-zuul-api-gateway
