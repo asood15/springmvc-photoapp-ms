@@ -7,3 +7,6 @@
 [submodule "photoapp-user-service"]
 	path = photoapp-user-service
 	url = https://github.com/asood15/photoapp-user-service
+[submodule "photoapp-account-management-service"]
+	path = photoapp-account-management-service
+	url = https://github.com/asood15/photoapp-account-management-service
