@@ -1,0 +1,3 @@
+[submodule "photoapp-discovery-service"]
+	path = photoapp-discovery-service
+	url = https://github.com/asood15/photoapp-discovery-service
