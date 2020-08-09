@@ -10,3 +10,6 @@
 [submodule "photoapp-account-management-service"]
 	path = photoapp-account-management-service
 	url = https://github.com/asood15/photoapp-account-management-service
+[submodule "photoapp-api-config-server"]
+	path = photoapp-api-config-server
+	url = https://github.com/asood15/photoapp-api-config-server
